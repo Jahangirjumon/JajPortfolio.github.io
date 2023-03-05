@@ -37,7 +37,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Sakib Hossain</title>
+        <title>Jahangir Jumon</title>
         <meta
           name="description"
           content="I'm a designer & developer with a passion for web & windows application development. I enjoy develop web software that help people to fulfil their demand. Many clients have procured exceptional result while working with me. Delivering work within time and budget which meets client’s requirements is my moto."

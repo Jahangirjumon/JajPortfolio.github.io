@@ -6,7 +6,7 @@
 :root {
   --header-height: 3rem;
   /* hue */
-  --hue-color: 250;
+  --hue-color: 198;
   /* color */
   --first-color: hsl(var(--hue-color), 69%, 61%);
   --first-color-second: hsl(var(--hue-color), 69%, 61%);

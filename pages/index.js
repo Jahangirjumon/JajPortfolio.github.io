@@ -45,8 +45,8 @@ export default function Home() {
         <link rel="apple-touch-icon" href="mypic.png" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-        <meta property="og:url" content="https://shfsakib.com/" />
-        <meta property="og:title" content="Mohammad Sakib Hossain" />
+        <meta property="og:url" content="https://jumon.xyz/" />
+        <meta property="og:title" content="Md Jahangir Alam Jumon" />
         <meta
           property="og:description"
           content="I'm a designer & developer with a passion for web & windows application development. I enjoy develop web software that help people to fulfil their demand. Many clients have procured exceptional result while working with me. Delivering work within time and budget which meets client’s requirements is my moto."

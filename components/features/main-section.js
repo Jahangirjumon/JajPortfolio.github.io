@@ -87,10 +87,10 @@ const MainSection = () => {
             </div>
             <div className="home__data">
               <div className="home__title" data-aos="fade-down">
-                {"Hi, I'm Sakib"}
+                {"Hi, I'm Jahangir Jumon"}
               </div>
               <div className="home__subtitle" data-aos="fade-up">
-                {"Full Stack Developer"}
+                {"MERN Stack Developer"}
               </div>
               <p className="home__description" data-aos="fade-up">
                 {
